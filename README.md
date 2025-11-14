@@ -1,6 +1,6 @@
-# Construct-X Template Repository
+# Fraunhofer ISST Template Repository
 
-Template repository for Construct-X.
+Template repository for Fraunhofer ISST.
 
 ## About
 Use this template during repository creation to include relevant files and a default configuration. For your project, please add a description with additional details about your project here.
@@ -20,7 +20,7 @@ To run and work with this project, the following prerequisites are needed:
 To run this project, execute the following steps:
 1. Clone this repository
    ```sh
-   git clone https://github.com/Projekt-Construct-X/XXX.git
+   git clone https://github.com/Project-Fraunhofer ISST/XXX.git
    ```
 2. Do this
    ```sh
